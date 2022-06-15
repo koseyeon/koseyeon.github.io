@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgoddanddan=self.webpackChunkgoddanddan||[]).push([[110],{711:function(a){a.exports=JSON.parse('{"permalink":"/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"blog","blogTitle":"goddanddan"}')}}]);
